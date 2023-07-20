@@ -1,0 +1,33 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a {
+    padding: 0px 7px;
+    font-size: 1rem;
+
+}
+/* home section */
+#home
+{
+    height: 280px;
+    flex-direction: column;
+
+}
+#home::before{
+    height: 280px;
+}
+/* services section */
+#services
+{
+
+}
+#services-box
+{
+
+}
+/* contact section */
+#contact
+{
+
+}
